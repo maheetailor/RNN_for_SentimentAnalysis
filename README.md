@@ -1,4 +1,4 @@
-# RNN_for_SentimentAnalysis
+# Sentiment Analysis
 RNN where positives and negatives are analyzed for IMDB Dataset.
 This is my first time working with RNN(Recurrent Neural Network) from loading data till evaluation it has been quite a work.
 I have used IMDB dataset where various movie reviews are posted by people and based on those reviews I have bifurcated whether it is negative or positive.
